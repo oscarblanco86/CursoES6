@@ -1,0 +1,25 @@
+{
+  "name": "cursoes6",
+  "version": "1.0.0",
+  "description": "Curso ES6",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oscarblanco86/CursoES6.git"
+  },
+  "keywords": [
+    "ES6",
+    "JS",
+    "ecmascript6"
+  ],
+  "author": "Oscar Blanco",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/oscarblanco86/CursoES6/issues"
+  },
+  "homepage": "https://github.com/oscarblanco86/CursoES6#readme"
+}
